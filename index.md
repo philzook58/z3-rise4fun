@@ -7,7 +7,7 @@ layout: default
 <script src="out/z3.js"> </script>
 <script src="helper.js"> </script> 
 
-This is a reconstruction of the [rise4fun Z3](https://web.archive.org/web/20210119175613/https://rise4fun.com/Z3/tutorial/guide) website with a wasm compiled version of Z3 using [z3-wasm](https://github.com/bramvdbogaerde/z3-wasm).
+This is a reconstruction of the [rise4fun Z3](https://web.archive.org/web/20210119175613/https://rise4fun.com/Z3/tutorial/guide) website with a wasm compiled version of Z3 using [z3-wasm](https://github.com/bramvdbogaerde/z3-wasm). Since I originally did this, an official version has come online at <https://microsoft.github.io/z3guide/> and javascript bindings are now in Z3 itself.
 
 
 ## Tutorials
